@@ -1,5 +1,6 @@
 # MIT-Project
 #This is done for the UCSC as a final project in MIT Degree.
+# Please install Python 3.0, PyQt5 and OpenCV inorder to run the project. Import all the mentioned libraries too. 
 
 import sys
 import numpy as np
